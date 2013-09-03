@@ -1,0 +1,5 @@
+博客:
+http://blog.csdn.net/kobe_byrant/article/details/7643782
+
+微博API文档
+http://open.weibo.com/wiki/index.php?title=API%E6%96%87%E6%A1%A3_V2

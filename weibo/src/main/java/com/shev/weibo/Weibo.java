@@ -20,7 +20,7 @@ public class Weibo
     public static void main( String[] args )
     {
     	DefaultHttpClient httpClient = new DefaultHttpClient();
-    	HttpGet post = new HttpGet("http://weibo.com/signup/signup.php?from=bp&lang=zh-cn");
+    	HttpGet post = new HttpGet("http://weibo.com/signup/v5/pincode/pincode.php?lang=zh&sinaId=205e80f8923054b5d40d2d99f7b89020&r=137819997702733");
 //    	post.addHeader("client_id", "2339667422");
 //    	post.addHeader("client_secret", "5d984b846d178f8863f8c82ef41ddc75");
 //    	post.addHeader("grant_type", "authorization_code");
